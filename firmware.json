@@ -3,5 +3,5 @@
   "board": "STM32F103CBT6",
   "file": "firmware.bin",
   "size": 70176,
-  "crc": "5310F928"
+  "crc": "DFCE4864"
 }
